@@ -2,5 +2,5 @@ import streamlit as st
 
 st.title("🎈 Aqualoop")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "Ayo kita mulai mendeteksi tangki! [docs.streamlit.io](https://docs.streamlit.io/)."
 )
