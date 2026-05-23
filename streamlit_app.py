@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title("🎈 happy birthday cila")
+st.title("🎈 Aqualoop")
 st.write(
-    "ciee 20 tahun! [docs.streamlit.io](https://docs.streamlit.io/)."
+    "mari kita coba! [docs.streamlit.io](https://docs.streamlit.io/)."
 )
 st.balloons()
